@@ -14,3 +14,6 @@ The defined CSS variables are manipulated via JavaScript. This changes the value
 
 ## [04 Array Cardio 1](04_Array_Cardio_1/)
 Working with different array functions like: filter, map, sort, reduce.
+
+## [05 Flex Panel Gallery](05_Flex_Panel_Gallery/)
+Toggling CSS classes on click and transitionend events.
