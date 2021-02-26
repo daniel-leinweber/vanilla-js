@@ -21,3 +21,6 @@ Toggling CSS classes on click and transitionend events.
 ## [06 Type Ahead](06_Type_Ahead/)
 A input form that allows a instant (on the fly) search of cities and states. Working with fetch() and promises as well as Regular Expressions.
 The data is fetched from an external endpoint and stored into an array. The array is filtered on the user input to only display matching cities or states.
+
+## [07 Array Cardio 2](07_Array_Cardio_2/)
+Working with different array functions like: some, every, find, findIndex, slice.
