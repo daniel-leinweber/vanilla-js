@@ -28,5 +28,8 @@ Working with different array functions like: some, every, find, findIndex, slice
 ## [08 HTML5 Canvas](08_HTML5_Canvas/)
 The HTML5 canvas let us draw inside of the browser. By listening to different mouse events (mousedown, mouseup, mousemove, mouseout) we are able to draw inside of the 2d canvas context.
 
-## [09 Console Tricks](09_Console_Tricks)
+## [09 Console Tricks](09_Console_Tricks/)
 Working with different console functions, to format the output or get specific information to debug easily.
+
+## [10 Hold Shift and check checkboxes](10_Hold_Shift_And_Check_Checkboxes/)
+Simulating a mail inbox and checking each mail (checkbox) between two checked items when the ShiftKey is pressed.
