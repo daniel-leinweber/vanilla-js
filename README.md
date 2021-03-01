@@ -33,3 +33,6 @@ Working with different console functions, to format the output or get specific i
 
 ## [10 Hold Shift and check checkboxes](10_Hold_Shift_And_Check_Checkboxes/)
 Simulating a mail inbox and checking each mail (checkbox) between two checked items when the ShiftKey is pressed.
+
+## [11 Custom HTML5 Video Player](11_Custom_HTML5_Video_Player/)
+A custom HTML5 Video Player with controls for 'play' and 'pause', 'skip' and 'fullscreen'. As well as sliders for the volume, the video speed and duration.
