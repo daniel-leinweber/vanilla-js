@@ -36,3 +36,6 @@ Simulating a mail inbox and checking each mail (checkbox) between two checked it
 
 ## [11 Custom HTML5 Video Player](11_Custom_HTML5_Video_Player/)
 A custom HTML5 Video Player with controls for 'play' and 'pause', 'skip' and 'fullscreen'. As well as sliders for the volume, the video speed and duration.
+
+## [12 Key Sequence Detection](12_Key_Sequence_Detection/)
+Adding a key sequence to an array. When the sequence matches a given secret a cornify is added to the side.
