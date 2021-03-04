@@ -39,3 +39,6 @@ A custom HTML5 Video Player with controls for 'play' and 'pause', 'skip' and 'fu
 
 ## [12 Key Sequence Detection](12_Key_Sequence_Detection/)
 Adding a key sequence to an array. When the sequence matches a given secret a cornify is added to the side.
+
+## [13 Slide in on scroll](13_Slide_In_On_Scroll/)
+Sliding in images on the window scroll event, if the image is halfway in the view. The execution of the scroll event handler is debounced, so that it does not get executed too often.
