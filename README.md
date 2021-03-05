@@ -42,3 +42,6 @@ Adding a key sequence to an array. When the sequence matches a given secret a co
 
 ## [13 Slide in on scroll](13_Slide_In_On_Scroll/)
 Sliding in images on the window scroll event, if the image is halfway in the view. The execution of the scroll event handler is debounced, so that it does not get executed too often.
+
+## [14 JS References vs. copying](14_References_VS_Copying/)
+Playing with reference types and value types and how to create actual copies of Arrays and Objects.
